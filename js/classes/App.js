@@ -22,6 +22,8 @@ class App {
         sintomasInput.addEventListener('input', datosCita);
     
         formulario.addEventListener('submit', nuevaCita);
+
+
     }
 }
 
